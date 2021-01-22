@@ -99,7 +99,7 @@ button:hover {
   border-color: #000000;
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width:600px) {
   body {
     background-image: url('../images/a-contract-with-god-picture1.jpg');
     background-repeat: no-repeat;
